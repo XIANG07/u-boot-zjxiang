@@ -1,0 +1,767 @@
+---- CFG_PROMPT Matches (766 in 316 files) ----
+A3000.h (include\configs) line 78 : #define CFG_PROMPT	"A3000> "		/* Monitor Command Prompt	*/
+A3000.h (include\configs) line 83 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+ADCIOP.h (include\configs) line 75 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ADCIOP.h (include\configs) line 81 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+Adder.h (include\configs) line 75 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+Adder.h (include\configs) line 77 : #define CFG_PROMPT_HUSH_PS2	"> "
+Adder.h (include\configs) line 80 : #define CFG_PBSIZE (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)  /* Print Buffer Size */
+ADNPESC1.h (include\configs) line 621 : #define	CFG_PROMPT		"ADNPESC1 > " /* Monitor Command Prompt	*/
+ADNPESC1.h (include\configs) line 623 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ADNPESC1.h (include\configs) line 628 : #define CFG_PROMPT_HUSH_PS2	"[]> "
+adsvix.h (include\configs) line 174 : #define CFG_PROMPT_HUSH_PS2	"> "
+adsvix.h (include\configs) line 178 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+adsvix.h (include\configs) line 180 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+adsvix.h (include\configs) line 183 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+aev.h (include\configs) line 326 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+aev.h (include\configs) line 332 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+Alaska8220.h (include\configs) line 284 : #define CFG_PROMPT		"=> "	    /* Monitor Command Prompt	*/
+Alaska8220.h (include\configs) line 290 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+AmigaOneG3SE.h (include\configs) line 96 : #define CFG_PROMPT	"] "		/* Monitor Command Prompt	*/
+AmigaOneG3SE.h (include\configs) line 101 : #define CFG_PROMPT_HUSH_PS2	"> "
+AmigaOneG3SE.h (include\configs) line 107 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+AMX860.h (include\configs) line 94 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+AMX860.h (include\configs) line 100 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+AP1000.h (include\configs) line 35 : #define CFG_PROMPT		"0> "
+AP1000.h (include\configs) line 36 : #define CFG_PROMPT_HUSH_PS2	"> "
+AP1000.h (include\configs) line 97 : /* usually: (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) */
+APC405.h (include\configs) line 102 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+APC405.h (include\configs) line 106 : #define	CFG_PROMPT_HUSH_PS2	"> "
+APC405.h (include\configs) line 114 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+AR405.h (include\configs) line 94 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+AR405.h (include\configs) line 100 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+armadillo.h (include\configs) line 90 : #define	CFG_PROMPT		"ARMADILLO # "	/* Monitor Command Prompt	*/
+armadillo.h (include\configs) line 92 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ASH405.h (include\configs) line 87 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ASH405.h (include\configs) line 91 : #define CFG_PROMPT_HUSH_PS2	"> "
+ASH405.h (include\configs) line 99 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+assabet.h (include\configs) line 89 : #define CFG_PROMPT		"Intel Assabet # "	/* Monitor Command Prompt       */
+assabet.h (include\configs) line 91 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+at91rm9200dk.h (include\configs) line 200 : #define CFG_PROMPT		"U-Boot> "	/* Monitor Command Prompt */
+at91rm9200dk.h (include\configs) line 203 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+atc.h (include\configs) line 146 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+atc.h (include\configs) line 152 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+atstk1002.h (include\configs) line 168 : #define CFG_PROMPT			"Uboot> "
+atstk1002.h (include\configs) line 171 : #define CFG_PBSIZE			(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+B2.h (include\configs) line 100 : #define	CFG_PROMPT		"=>  "	/* Monitor Command Prompt	*/
+B2.h (include\configs) line 102 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+BAB7xx.h (include\configs) line 82 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt */
+BAB7xx.h (include\configs) line 94 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+bamboo.h (include\configs) line 343 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+bamboo.h (include\configs) line 349 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+barco.h (include\configs) line 98 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+barco.h (include\configs) line 100 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+BC3450.h (include\configs) line 452 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt   */
+BC3450.h (include\configs) line 458 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size  */
+BMW.h (include\configs) line 93 : #define CFG_PROMPT	"=>"	        /* Monitor Command Prompt	*/
+BMW.h (include\configs) line 98 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+bubinga.h (include\configs) line 167 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+bubinga.h (include\configs) line 173 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+c2mon.h (include\configs) line 94 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+c2mon.h (include\configs) line 98 : #define	CFG_PROMPT_HUSH_PS2	"> "
+c2mon.h (include\configs) line 106 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CANBT.h (include\configs) line 75 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CANBT.h (include\configs) line 81 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+canmb.h (include\configs) line 183 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+canmb.h (include\configs) line 189 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+CATcenter.h (include\configs) line 151 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+CATcenter.h (include\configs) line 155 : #define CFG_PROMPT_HUSH_PS2	"> "
+CATcenter.h (include\configs) line 163 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CCM.h (include\configs) line 116 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CCM.h (include\configs) line 122 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cerf250.h (include\configs) line 87 : #define CFG_PROMPT_HUSH_PS2	"> "
+cerf250.h (include\configs) line 91 : #define CFG_PROMPT			"uboot$ "	/* Monitor Command Prompt */
+cerf250.h (include\configs) line 93 : #define CFG_PROMPT			"=> "		/* Monitor Command Prompt */
+cerf250.h (include\configs) line 96 : #define CFG_PBSIZE 			(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+cm4008.h (include\configs) line 74 : #define CFG_PROMPT		"boot > "	/* Monitor Command Prompt	*/
+cm4008.h (include\configs) line 76 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cm41xx.h (include\configs) line 74 : #define CFG_PROMPT		"boot > "	/* Monitor Command Prompt	*/
+cm41xx.h (include\configs) line 76 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cmc_pu2.h (include\configs) line 175 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+cmc_pu2.h (include\configs) line 178 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cmi_mpc5xx.h (include\configs) line 75 : #define	CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+cmi_mpc5xx.h (include\configs) line 81 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CMS700.h (include\configs) line 96 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CMS700.h (include\configs) line 100 : #define CFG_PROMPT_HUSH_PS2	"> "
+CMS700.h (include\configs) line 108 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cobra5272.h (include\configs) line 178 : #define CFG_PROMPT		"COBRA > "	/* Layout of u-boot prompt*/
+cobra5272.h (include\configs) line 192 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cogent_mpc8260.h (include\configs) line 126 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+cogent_mpc8260.h (include\configs) line 132 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cogent_mpc8xx.h (include\configs) line 90 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+cogent_mpc8xx.h (include\configs) line 96 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+command.c (common) line 582 : 	if (strcmp(prompt, CFG_PROMPT) != 0)
+CPC45.h (include\configs) line 84 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPC45.h (include\configs) line 91 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPC45.h (include\configs) line 96 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+CPCI2DP.h (include\configs) line 76 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI2DP.h (include\configs) line 80 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI2DP.h (include\configs) line 88 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCI405.h (include\configs) line 92 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI405.h (include\configs) line 96 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI405.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCI4052.h (include\configs) line 113 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI4052.h (include\configs) line 117 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI4052.h (include\configs) line 125 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCI405AB.h (include\configs) line 101 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI405AB.h (include\configs) line 105 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI405AB.h (include\configs) line 113 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCI405DT.h (include\configs) line 111 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI405DT.h (include\configs) line 115 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI405DT.h (include\configs) line 123 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCI440.h (include\configs) line 206 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI440.h (include\configs) line 212 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cpci5200.h (include\configs) line 279 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+cpci5200.h (include\configs) line 285 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+CPCI750.h (include\configs) line 75 : #define CFG_PROMPT_HUSH_PS2	"> "
+CPCI750.h (include\configs) line 181 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCI750.h (include\configs) line 187 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPCIISER4.h (include\configs) line 75 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPCIISER4.h (include\configs) line 81 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPU86.h (include\configs) line 185 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPU86.h (include\configs) line 191 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CPU87.h (include\configs) line 198 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CPU87.h (include\configs) line 204 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+cradle.h (include\configs) line 82 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt       */
+cradle.h (include\configs) line 84 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CRAYL1.h (include\configs) line 74 : #define CFG_PROMPT_HUSH_PS2		"> "
+CRAYL1.h (include\configs) line 132 : #define CFG_PROMPT	"=> "			/* Monitor Command Prompt	*/
+CRAYL1.h (include\configs) line 135 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+csb226.h (include\configs) line 94 : #define CFG_PROMPT		"uboot> "	/* Monitor Command Prompt       */
+csb226.h (include\configs) line 96 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+csb272.h (include\configs) line 123 : #define	CFG_PROMPT_HUSH_PS2	"> "	/* hush shell secondary prompt */
+csb272.h (include\configs) line 127 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt */
+csb272.h (include\configs) line 133 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+csb472.h (include\configs) line 123 : #define	CFG_PROMPT_HUSH_PS2	"> "	/* hush shell secondary prompt */
+csb472.h (include\configs) line 127 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt */
+csb472.h (include\configs) line 133 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+csb637.h (include\configs) line 202 : #define CFG_PROMPT		"U-Boot> "	/* Monitor Command Prompt */
+csb637.h (include\configs) line 205 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+CU824.h (include\configs) line 79 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+CU824.h (include\configs) line 86 : #define	CFG_PROMPT_HUSH_PS2	"> "
+CU824.h (include\configs) line 91 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+DASA_SIM.h (include\configs) line 84 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+DASA_SIM.h (include\configs) line 90 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DB64360.h (include\configs) line 141 : #define CFG_PROMPT_HUSH_PS2	"> "
+DB64360.h (include\configs) line 263 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+DB64360.h (include\configs) line 269 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DB64460.h (include\configs) line 79 : #define CFG_PROMPT_HUSH_PS2	"> "
+DB64460.h (include\configs) line 201 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+DB64460.h (include\configs) line 207 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+dbau1x00.h (include\configs) line 99 : #define	CFG_PROMPT		"DbAu1xx0 # "	/* Monitor Command Prompt    */
+dbau1x00.h (include\configs) line 102 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+debris.h (include\configs) line 148 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+debris.h (include\configs) line 150 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+delta.h (include\configs) line 126 : #define CFG_PROMPT_HUSH_PS2	"> "
+delta.h (include\configs) line 130 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+delta.h (include\configs) line 132 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+delta.h (include\configs) line 135 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DK1C20.h (include\configs) line 519 : #define	CFG_PROMPT		"DK1C20 > " /* Monitor Command Prompt	*/
+DK1C20.h (include\configs) line 521 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DK1S10.h (include\configs) line 505 : #define	CFG_PROMPT		"DK1S10 > " /* Monitor Command Prompt	*/
+DK1S10.h (include\configs) line 507 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+dnp1110.h (include\configs) line 92 : #define	CFG_PROMPT		"DNP1110 # "	/* Monitor Command Prompt	*/
+dnp1110.h (include\configs) line 94 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DP405.h (include\configs) line 83 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+DP405.h (include\configs) line 87 : #define CFG_PROMPT_HUSH_PS2	"> "
+DP405.h (include\configs) line 95 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+DU405.h (include\configs) line 87 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+DU405.h (include\configs) line 93 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+EB+MCF-EV123.h (include\configs) line 78 : #define CFG_PROMPT		"\nEV123 U-Boot> "
+EB+MCF-EV123.h (include\configs) line 86 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ebony.h (include\configs) line 235 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ebony.h (include\configs) line 241 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ELPPC.h (include\configs) line 80 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt */
+ELPPC.h (include\configs) line 92 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ELPT860.h (include\configs) line 105 : #define CFG_PROMPT     "LEOX_elpt860: " /* Monitor Command Prompt	*/
+ELPT860.h (include\configs) line 113 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+EP1C20.h (include\configs) line 187 : #define CFG_PROMPT		"==> "		/* Command prompt	*/
+EP1C20.h (include\configs) line 191 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print buf size */
+EP1C20.h (include\configs) line 197 : #define CFG_PROMPT_HUSH_PS2	"> "
+EP1S10.h (include\configs) line 181 : #define CFG_PROMPT		"==> "		/* Command prompt	*/
+EP1S10.h (include\configs) line 185 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print buf size */
+EP1S10.h (include\configs) line 191 : #define CFG_PROMPT_HUSH_PS2	"> "
+EP1S40.h (include\configs) line 181 : #define CFG_PROMPT		"==> "		/* Command prompt	*/
+EP1S40.h (include\configs) line 185 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print buf size */
+EP1S40.h (include\configs) line 191 : #define CFG_PROMPT_HUSH_PS2	"> "
+ep7312.h (include\configs) line 90 : #define	CFG_PROMPT		"EP7312 # "	/* Monitor Command Prompt	*/
+ep7312.h (include\configs) line 92 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ep8248.h (include\configs) line 157 : #define CFG_PROMPT_HUSH_PS2	"> "
+ep8248.h (include\configs) line 159 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+ep8248.h (include\configs) line 165 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size  */
+ep8260.h (include\configs) line 281 : #define CFG_PROMPT              "=> "
+ep8260.h (include\configs) line 292 : #define CFG_PROMPT_HUSH_PS2	"> "
+ep8260.h (include\configs) line 358 : #define CFG_PBSIZE        (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+ep82xxm.h (include\configs) line 156 : #define CFG_PROMPT_HUSH_PS2	"> "
+ep82xxm.h (include\configs) line 158 : #define CFG_PROMPT		"ep82xxm=> "	/* Monitor Command Prompt   */
+ep82xxm.h (include\configs) line 164 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size  */
+EP88x.h (include\configs) line 73 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+EP88x.h (include\configs) line 75 : #define CFG_PROMPT_HUSH_PS2	"> "
+EP88x.h (include\configs) line 78 : #define CFG_PBSIZE (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)  /* Print Buffer Size */
+ERIC.h (include\configs) line 123 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ERIC.h (include\configs) line 129 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ESTEEM192E.h (include\configs) line 79 : #define	CFG_PROMPT	"BOOT: "	/* Monitor Command Prompt	*/
+ESTEEM192E.h (include\configs) line 81 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ETX094.h (include\configs) line 94 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ETX094.h (include\configs) line 100 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+evb4510.h (include\configs) line 101 : #define CFG_PROMPT		"evb4510 # "	/* Monitor Command Prompt */
+evb4510.h (include\configs) line 103 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+EVB64260.h (include\configs) line 61 : #define CFG_PROMPT_HUSH_PS2	"> "
+EVB64260.h (include\configs) line 119 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+EVB64260.h (include\configs) line 125 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+eXalion.h (include\configs) line 78 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+eXalion.h (include\configs) line 80 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+EXBITGEN.h (include\configs) line 96 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+EXBITGEN.h (include\configs) line 102 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ezkit533.h (include\configs) line 69 : #define CFG_PROMPT		"ezkit> "	/* Monitor Command Prompt */
+ezkit533.h (include\configs) line 75 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+FADS823.h (include\configs) line 117 : #define	CFG_PROMPT		":>"		/* Monitor Command Prompt	*/
+FADS823.h (include\configs) line 123 : #define	CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+FADS850SAR.h (include\configs) line 71 : #define	CFG_PROMPT		":>"		/* Monitor Command Prompt	*/
+FADS850SAR.h (include\configs) line 77 : #define	CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+FLAGADM.h (include\configs) line 78 : #define CFG_PROMPT	"EEG> "		/* Monitor Command Prompt	*/
+FLAGADM.h (include\configs) line 84 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+FPS850L.h (include\configs) line 79 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+FPS850L.h (include\configs) line 85 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+FPS860L.h (include\configs) line 79 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+FPS860L.h (include\configs) line 85 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+G2000.h (include\configs) line 116 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+G2000.h (include\configs) line 120 : #define CFG_PROMPT_HUSH_PS2	"> "
+G2000.h (include\configs) line 128 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+gcplus.h (include\configs) line 102 : #define	CFG_PROMPT		"ADS GCPlus # "	/* Monitor Command Prompt	*/
+gcplus.h (include\configs) line 104 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+GEN860T.h (include\configs) line 294 : #define	CFG_PROMPT			"B2> "
+GEN860T.h (include\configs) line 296 : #define	CFG_PROMPT			"SC> "
+GEN860T.h (include\configs) line 304 : #define	CFG_PROMPT_HUSH_PS2	"> "
+GEN860T.h (include\configs) line 318 : #define	CFG_PBSIZE (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+GENIETV.h (include\configs) line 115 : #define	CFG_PROMPT		":>"		/* Monitor Command Prompt	*/
+GENIETV.h (include\configs) line 121 : #define	CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+GTH.h (include\configs) line 110 : #define	CFG_PROMPT		"=>"	/* Monitor Command Prompt	*/
+GTH.h (include\configs) line 116 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+gth2.h (include\configs) line 85 : #define CFG_PROMPT		"GTH2 # "	/* Monitor Command Prompt    */
+gth2.h (include\configs) line 87 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+gw8260.h (include\configs) line 301 : #define CFG_PROMPT      "=> "
+gw8260.h (include\configs) line 318 : #define CFG_PROMPT_HUSH_PS2 "> "
+gw8260.h (include\configs) line 347 : #define CFG_PBSIZE    (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+hermes.h (include\configs) line 82 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+hermes.h (include\configs) line 88 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+HH405.h (include\configs) line 144 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+HH405.h (include\configs) line 148 : #define	CFG_PROMPT_HUSH_PS2	"> "
+HH405.h (include\configs) line 156 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+HIDDEN_DRAGON.h (include\configs) line 70 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+HIDDEN_DRAGON.h (include\configs) line 72 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+HMI10.h (include\configs) line 158 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+HMI10.h (include\configs) line 164 : #define CFG_PROMPT_HUSH_PS2	"> "
+HMI10.h (include\configs) line 172 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+hmi1001.h (include\configs) line 223 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+hmi1001.h (include\configs) line 229 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+HUB405.h (include\configs) line 84 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+HUB405.h (include\configs) line 88 : #define CFG_PROMPT_HUSH_PS2	"> "
+HUB405.h (include\configs) line 96 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+get_user_input in hush.c (common) : 		n = readline(CFG_PROMPT);
+get_user_input in hush.c (common) : 		n = readline(CFG_PROMPT_HUSH_PS2);
+hymod.h (include\configs) line 249 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+hymod.h (include\configs) line 255 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+IAD210.h (include\configs) line 138 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IAD210.h (include\configs) line 144 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+IceCube.h (include\configs) line 301 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+IceCube.h (include\configs) line 307 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+ICU862.h (include\configs) line 143 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ICU862.h (include\configs) line 149 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+IDS8247.h (include\configs) line 178 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IDS8247.h (include\configs) line 184 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+impa7.h (include\configs) line 89 : #define	CFG_PROMPT		"impA7 # "		/* Monitor Command Prompt	*/
+impa7.h (include\configs) line 91 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+incaip.h (include\configs) line 98 : #define	CFG_PROMPT		"INCA-IP # "	/* Monitor Command Prompt    */
+incaip.h (include\configs) line 100 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+inka4x0.h (include\configs) line 241 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+inka4x0.h (include\configs) line 247 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+innokom.h (include\configs) line 85 : #define CFG_PROMPT		"uboot> "	/* Monitor Command Prompt       */
+innokom.h (include\configs) line 87 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+integratorap.h (include\configs) line 87 : #define CFG_PROMPT	"Integrator-AP # "	/* Monitor Command Prompt   */
+integratorap.h (include\configs) line 90 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+integratorcp.h (include\configs) line 106 : #define CFG_PROMPT	"Integrator-CP # "	/* Monitor Command Prompt */
+integratorcp.h (include\configs) line 109 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+IP860.h (include\configs) line 111 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IP860.h (include\configs) line 117 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+IPHASE4539.h (include\configs) line 151 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IPHASE4539.h (include\configs) line 157 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+ISPAN.h (include\configs) line 131 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+ISPAN.h (include\configs) line 133 : #define CFG_PROMPT_HUSH_PS2	"> "
+ISPAN.h (include\configs) line 136 : #define CFG_PBSIZE (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)  /* Print Buffer Size */
+IVML24.h (include\configs) line 91 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IVML24.h (include\configs) line 97 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+IVMS8.h (include\configs) line 91 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+IVMS8.h (include\configs) line 97 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ixdp425.h (include\configs) line 83 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt       */
+ixdp425.h (include\configs) line 85 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ixdpg425.h (include\configs) line 96 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt       */
+ixdpg425.h (include\configs) line 98 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+JSE.h (include\configs) line 162 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+JSE.h (include\configs) line 166 : #define CFG_PROMPT_HUSH_PS2	"> "
+JSE.h (include\configs) line 174 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+KAREF.h (include\configs) line 210 : #define CFG_PROMPT	      "KaRefDes=> "  /* Monitor Command Prompt	*/
+KAREF.h (include\configs) line 213 : #define CFG_PROMPT_HUSH_PS2    "> "
+KAREF.h (include\configs) line 224 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+kb9202.h (include\configs) line 136 : #define CFG_PROMPT		"U-Boot> "	/* Monitor Command Prompt */
+kb9202.h (include\configs) line 139 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+KUP4K.h (include\configs) line 183 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+KUP4K.h (include\configs) line 189 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+KUP4X.h (include\configs) line 196 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+KUP4X.h (include\configs) line 202 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+kvme080.h (include\configs) line 91 : #define CFG_PROMPT		"=> "
+kvme080.h (include\configs) line 93 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+LANTEC.h (include\configs) line 133 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+LANTEC.h (include\configs) line 139 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+lart.h (include\configs) line 85 : #define	CFG_PROMPT		"LART # "	/* Monitor Command Prompt	*/
+lart.h (include\configs) line 87 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+logodl.h (include\configs) line 86 : #define CFG_PROMPT		"uboot> "	/* Monitor Command Prompt       */
+logodl.h (include\configs) line 88 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+lpd7a400.h (include\configs) line 80 : #define	CFG_PROMPT		"LPD7A400> "	/* Monitor Command Prompt	*/
+lpd7a400.h (include\configs) line 82 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+lpd7a404.h (include\configs) line 80 : #define	CFG_PROMPT		"LPD7A404> "	/* Monitor Command Prompt	*/
+lpd7a404.h (include\configs) line 82 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+luan.h (include\configs) line 245 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+luan.h (include\configs) line 251 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+lubbock.h (include\configs) line 94 : #define CFG_PROMPT_HUSH_PS2	"> "
+lubbock.h (include\configs) line 98 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+lubbock.h (include\configs) line 100 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+lubbock.h (include\configs) line 103 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+lwmon.h (include\configs) line 206 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+lwmon.h (include\configs) line 210 : #define	CFG_PROMPT_HUSH_PS2	"> "
+lwmon.h (include\configs) line 218 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+M5271EVB.h (include\configs) line 73 : #define CFG_PROMPT		"=> "
+M5271EVB.h (include\configs) line 81 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+M5272C3.h (include\configs) line 70 : #define CFG_PROMPT		"-> "
+M5272C3.h (include\configs) line 78 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+M5282EVB.h (include\configs) line 60 : #define CFG_PROMPT		"-> "
+M5282EVB.h (include\configs) line 68 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+main_loop in main.c (common) : 		len = readline (CFG_PROMPT);
+MBX.h (include\configs) line 86 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+MBX.h (include\configs) line 89 : #define CFG_PROMPT_HUSH_PS2	"> "
+MBX.h (include\configs) line 96 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MBX860T.h (include\configs) line 60 : #define	CFG_PROMPT		":>"		/* Monitor Command Prompt	*/
+MBX860T.h (include\configs) line 62 : #define	CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+mcc200.h (include\configs) line 165 : #define CFG_PROMPT_HUSH_PS2	"> "
+mcc200.h (include\configs) line 290 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+mcc200.h (include\configs) line 296 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+METROBOX.h (include\configs) line 279 : #define CFG_PROMPT	      "MetroBox=> "  /* Monitor Command Prompt	*/
+METROBOX.h (include\configs) line 282 : #define CFG_PROMPT_HUSH_PS2    "> "
+METROBOX.h (include\configs) line 293 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+MHPC.h (include\configs) line 135 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+MHPC.h (include\configs) line 141 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MIP405.h (include\configs) line 92 : #define	 CFG_PROMPT_HUSH_PS2 "> "
+MIP405.h (include\configs) line 167 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+MIP405.h (include\configs) line 173 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ML2.h (include\configs) line 104 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ML2.h (include\configs) line 110 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ml300.h (include\configs) line 105 : #define CFG_PROMPT	"=> "	/* Monitor Command Prompt	*/
+ml300.h (include\configs) line 109 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+modnet50.h (include\configs) line 93 : #define	CFG_PROMPT		"modnet50 # "	/* Monitor Command Prompt */
+modnet50.h (include\configs) line 95 : #define	CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MOUSSE.h (include\configs) line 75 : #define CFG_PROMPT      "=>"  /* Monitor Command Prompt   */
+MOUSSE.h (include\configs) line 77 : #define CFG_PBSIZE      (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+mp2usb.h (include\configs) line 189 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+mp2usb.h (include\configs) line 192 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8260ADS.h (include\configs) line 268 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8260ADS.h (include\configs) line 270 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt   */
+MPC8260ADS.h (include\configs) line 276 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+MPC8266ADS.h (include\configs) line 233 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt   */
+MPC8266ADS.h (include\configs) line 239 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+MPC8349EMDS.h (include\configs) line 308 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8349EMDS.h (include\configs) line 479 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8349EMDS.h (include\configs) line 487 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8540ADS.h (include\configs) line 297 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8540ADS.h (include\configs) line 450 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8540ADS.h (include\configs) line 458 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8540EVAL.h (include\configs) line 179 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8540EVAL.h (include\configs) line 290 : #define CFG_PROMPT	"MPC8540EVAL=> "/* Monitor Command Prompt	*/
+MPC8540EVAL.h (include\configs) line 296 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8541CDS.h (include\configs) line 308 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8541CDS.h (include\configs) line 425 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8541CDS.h (include\configs) line 431 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8548CDS.h (include\configs) line 314 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8548CDS.h (include\configs) line 439 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8548CDS.h (include\configs) line 445 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8555CDS.h (include\configs) line 308 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8555CDS.h (include\configs) line 425 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8555CDS.h (include\configs) line 431 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8560ADS.h (include\configs) line 290 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8560ADS.h (include\configs) line 483 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8560ADS.h (include\configs) line 491 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MPC8641HPCN.h (include\configs) line 255 : #define CFG_PROMPT_HUSH_PS2 "> "
+MPC8641HPCN.h (include\configs) line 529 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+MPC8641HPCN.h (include\configs) line 537 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+MUSENKI.h (include\configs) line 66 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+MUSENKI.h (include\configs) line 71 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+MVBLUE.h (include\configs) line 93 : #define CFG_PROMPT	"=> "	/* Monitor Command Prompt	*/
+MVBLUE.h (include\configs) line 96 : #define CFG_PBSIZE		(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+MVS1.h (include\configs) line 92 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+MVS1.h (include\configs) line 96 : #define CFG_PROMPT_HUSH_PS2     "> "
+MVS1.h (include\configs) line 104 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+mx1ads.h (include\configs) line 110 : #define CFG_PROMPT_HUSH_PS2	"> "
+mx1ads.h (include\configs) line 115 : #define CFG_PROMPT		"MX1ADS$ "	/* Monitor Command Prompt */
+mx1ads.h (include\configs) line 117 : #define CFG_PROMPT		"MX1ADS=> "	/* Monitor Command Prompt */
+mx1ads.h (include\configs) line 121 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+mx1fs2.h (include\configs) line 66 : #define CFG_PROMPT		"mx1fs2> "	      /* prompt string	     */
+mx1fs2.h (include\configs) line 68 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* print buffer size   */
+NC650.h (include\configs) line 154 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+NC650.h (include\configs) line 160 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+NETPHONE.h (include\configs) line 126 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+NETPHONE.h (include\configs) line 129 : #define CFG_PROMPT_HUSH_PS2	"> "
+NETPHONE.h (include\configs) line 136 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+netstar.h (include\configs) line 220 : #define CFG_PROMPT		"# "		/* Monitor Command Prompt	*/
+netstar.h (include\configs) line 222 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+netstar.h (include\configs) line 227 : #define CFG_PROMPT_HUSH_PS2	"> "
+NETTA.h (include\configs) line 138 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+NETTA.h (include\configs) line 141 : #define CFG_PROMPT_HUSH_PS2	"> "
+NETTA.h (include\configs) line 148 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+NETTA2.h (include\configs) line 126 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+NETTA2.h (include\configs) line 129 : #define CFG_PROMPT_HUSH_PS2	"> "
+NETTA2.h (include\configs) line 136 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+NETVIA.h (include\configs) line 111 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+NETVIA.h (include\configs) line 117 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ns9750dev.h (include\configs) line 121 : #define	CFG_PROMPT		"NS9750DEV # "	/* Monitor Command Prompt	*/
+ns9750dev.h (include\configs) line 123 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+NSCU.h (include\configs) line 111 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+NSCU.h (include\configs) line 117 : #define	CFG_PROMPT_HUSH_PS2	"> "
+NSCU.h (include\configs) line 125 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+NX823.h (include\configs) line 72 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+NX823.h (include\configs) line 78 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+o2dnt.h (include\configs) line 247 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+o2dnt.h (include\configs) line 254 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+ocotea.h (include\configs) line 259 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ocotea.h (include\configs) line 265 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+OCRTC.h (include\configs) line 79 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+OCRTC.h (include\configs) line 85 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+omap1510inn.h (include\configs) line 111 : #define CFG_PROMPT		"OMAP1510 Innovator # " /* Monitor Command Prompt	*/
+omap1510inn.h (include\configs) line 113 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+omap1610h2.h (include\configs) line 105 : #define CFG_PROMPT	"OMAP1610 H2 # "	/* Monitor Command Prompt */
+omap1610h2.h (include\configs) line 108 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+omap1610inn.h (include\configs) line 110 : #define CFG_PROMPT	"OMAP1610 Innovator # "	/* Monitor Command Prompt   */
+omap1610inn.h (include\configs) line 113 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+omap2420h4.h (include\configs) line 191 : #define CFG_PROMPT               V_PROMPT
+omap2420h4.h (include\configs) line 194 : #define CFG_PBSIZE               (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+omap5912osk.h (include\configs) line 114 : #define CFG_PROMPT	"OMAP5912 OSK # "	/* Monitor Command Prompt   */
+omap5912osk.h (include\configs) line 117 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+omap730p2.h (include\configs) line 125 : #define CFG_PROMPT		   "OMAP730 P2 # "     /* Monitor Command Prompt   */
+omap730p2.h (include\configs) line 128 : #define CFG_PBSIZE		   (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+ORSG.h (include\configs) line 79 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ORSG.h (include\configs) line 85 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+OXC.h (include\configs) line 63 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+OXC.h (include\configs) line 65 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+P3G4.h (include\configs) line 57 : #define CFG_PROMPT_HUSH_PS2	"> "
+P3G4.h (include\configs) line 145 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+P3G4.h (include\configs) line 151 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+p3p440.h (include\configs) line 196 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+p3p440.h (include\configs) line 202 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PATI.h (include\configs) line 73 : #define	CFG_PROMPT		"pati=> "		/* Monitor Command Prompt	*/
+PATI.h (include\configs) line 79 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+pb1x00.h (include\configs) line 75 : #define	CFG_PROMPT		"Pb1x00 # "	/* Monitor Command Prompt    */
+pb1x00.h (include\configs) line 77 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+PCI405.h (include\configs) line 92 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PCI405.h (include\configs) line 96 : #define CFG_PROMPT_HUSH_PS2	"> "
+PCI405.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PCI5441.h (include\configs) line 146 : #define	CFG_PROMPT		"==> "		/* Command prompt	*/
+PCI5441.h (include\configs) line 150 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print buf size	*/
+PCIPPC2.h (include\configs) line 86 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PCIPPC2.h (include\configs) line 90 : #define	CFG_PROMPT_HUSH_PS2	"> "
+PCIPPC2.h (include\configs) line 96 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+PCIPPC6.h (include\configs) line 88 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PCIPPC6.h (include\configs) line 92 : #define CFG_PROMPT_HUSH_PS2	"> "
+PCIPPC6.h (include\configs) line 98 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+pcs440ep.h (include\configs) line 239 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+pcs440ep.h (include\configs) line 245 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+pcu_e.h (include\configs) line 112 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+pcu_e.h (include\configs) line 118 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+pdnb3.h (include\configs) line 95 : #define CFG_PROMPT              "=> "   /* Monitor Command Prompt       */
+pdnb3.h (include\configs) line 97 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+pf5200.h (include\configs) line 265 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+pf5200.h (include\configs) line 271 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+PIP405.h (include\configs) line 74 : #define	 CFG_PROMPT_HUSH_PS2 "> "
+PIP405.h (include\configs) line 152 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PIP405.h (include\configs) line 158 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PK1C20.h (include\configs) line 217 : #define CFG_PROMPT		"==> "		/* Command prompt	*/
+PK1C20.h (include\configs) line 221 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print buf size */
+PK1C20.h (include\configs) line 227 : #define CFG_PROMPT_HUSH_PS2	"> "
+pleb2.h (include\configs) line 95 : #define CFG_PROMPT_HUSH_PS2	"> "
+pleb2.h (include\configs) line 99 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+pleb2.h (include\configs) line 101 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+pleb2.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PLU405.h (include\configs) line 104 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PLU405.h (include\configs) line 108 : #define CFG_PROMPT_HUSH_PS2	"> "
+PLU405.h (include\configs) line 116 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PM520.h (include\configs) line 296 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+PM520.h (include\configs) line 302 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+PM826.h (include\configs) line 199 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PM826.h (include\configs) line 205 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PM828.h (include\configs) line 198 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PM828.h (include\configs) line 204 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PM854.h (include\configs) line 193 : #define CFG_PROMPT_HUSH_PS2 "> "
+PM854.h (include\configs) line 351 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+PM854.h (include\configs) line 359 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PM856.h (include\configs) line 190 : #define CFG_PROMPT_HUSH_PS2 "> "
+PM856.h (include\configs) line 352 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt */
+PM856.h (include\configs) line 360 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PMC405.h (include\configs) line 96 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+PMC405.h (include\configs) line 100 : #define CFG_PROMPT_HUSH_PS2	"> "
+PMC405.h (include\configs) line 108 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+PN62.h (include\configs) line 93 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+PN62.h (include\configs) line 95 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+PPChameleonEVB.h (include\configs) line 158 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+PPChameleonEVB.h (include\configs) line 162 : #define CFG_PROMPT_HUSH_PS2	"> "
+PPChameleonEVB.h (include\configs) line 170 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+ppmc7xx.h (include\configs) line 247 :  * CFG_PROMPT			- Prompt string
+ppmc7xx.h (include\configs) line 259 : #define CFG_PROMPT			"=> "
+ppmc8260.h (include\configs) line 276 : #define CFG_PROMPT		"=> "
+ppmc8260.h (include\configs) line 314 : #define CFG_PBSIZE	  (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+purple.h (include\configs) line 99 : #define	CFG_PROMPT		"PURPLE # "	/* Monitor Command Prompt    */
+purple.h (include\configs) line 101 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+pxa255_idp.h (include\configs) line 204 : #define CFG_PROMPT_HUSH_PS2	"> "
+pxa255_idp.h (include\configs) line 208 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+pxa255_idp.h (include\configs) line 210 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+pxa255_idp.h (include\configs) line 213 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+QS823.h (include\configs) line 226 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+QS823.h (include\configs) line 229 : #define CFG_PROMPT_HUSH_PS2	"> "
+QS823.h (include\configs) line 236 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+QS850.h (include\configs) line 226 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+QS850.h (include\configs) line 229 : #define CFG_PROMPT_HUSH_PS2	"> "
+QS850.h (include\configs) line 236 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+QS860T.h (include\configs) line 134 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+QS860T.h (include\configs) line 137 : #define CFG_PROMPT_HUSH_PS2	"> "
+QS860T.h (include\configs) line 144 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+quantum.h (include\configs) line 115 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+quantum.h (include\configs) line 121 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+R360MPI.h (include\configs) line 136 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+R360MPI.h (include\configs) line 142 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+r5200.h (include\configs) line 79 : #define CFG_PROMPT		"u-boot> "
+r5200.h (include\configs) line 87 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+Rattler.h (include\configs) line 158 : #define CFG_PROMPT_HUSH_PS2	"> "
+Rattler.h (include\configs) line 160 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+Rattler.h (include\configs) line 166 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size  */
+RBC823.h (include\configs) line 131 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+RBC823.h (include\configs) line 137 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+rmu.h (include\configs) line 110 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+rmu.h (include\configs) line 116 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+RPXClassic.h (include\configs) line 106 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+RPXClassic.h (include\configs) line 112 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+RPXlite.h (include\configs) line 74 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+RPXlite.h (include\configs) line 80 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+RPXlite_DW.h (include\configs) line 157 : #define CFG_PROMPT	"u-boot>"	/* Monitor Command Prompt   */
+RPXlite_DW.h (include\configs) line 165 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+RPXsuper.h (include\configs) line 151 : #define CFG_PROMPT              "=> "
+RPXsuper.h (include\configs) line 192 : #define CFG_PBSIZE        (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+RRvision.h (include\configs) line 153 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+RRvision.h (include\configs) line 159 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+rsdproto.h (include\configs) line 132 : #define	CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+rsdproto.h (include\configs) line 138 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+S3C2440A.h (include\configs) line 111 : #define	CFG_PROMPT		"SMDK2410 # "	/* Monitor Command Prompt	*/
+S3C2440A.h (include\configs) line 113 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sacsng.h (include\configs) line 488 : #define CFG_PROMPT		"=> "
+sacsng.h (include\configs) line 492 : #define CFG_PROMPT_HUSH_PS2     "> "
+sacsng.h (include\configs) line 599 : #define CFG_PBSIZE	  (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+Sandpoint8240.h (include\configs) line 102 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+Sandpoint8240.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+Sandpoint8245.h (include\configs) line 71 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+Sandpoint8245.h (include\configs) line 73 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size	*/
+sbc2410x.h (include\configs) line 123 : #define	CFG_PROMPT		"[ ~ljh@GDLC ]# "	/* Monitor Command Prompt	*/
+sbc2410x.h (include\configs) line 125 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sbc2410x.h (include\configs) line 229 : #define CFG_PROMPT_HUSH_PS2   "> "
+sbc405.h (include\configs) line 119 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+sbc405.h (include\configs) line 123 : #define CFG_PROMPT_HUSH_PS2	"> "
+sbc405.h (include\configs) line 131 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sbc8240.h (include\configs) line 101 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+sbc8240.h (include\configs) line 108 : #define CFG_PROMPT_HUSH_PS2	"> "
+sbc8240.h (include\configs) line 151 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+sbc8260.h (include\configs) line 430 : #define CFG_PROMPT		"=> "
+sbc8260.h (include\configs) line 434 : #define CFG_PROMPT_HUSH_PS2	"> "
+sbc8260.h (include\configs) line 497 : #define CFG_PBSIZE	  (CFG_CBSIZE + sizeof(CFG_PROMPT)+16)
+SBC8540.h (include\configs) line 214 : #define CFG_PROMPT_HUSH_PS2 "> "
+SBC8540.h (include\configs) line 370 : #define CFG_PROMPT	"SBC8540=> " /* Monitor Command Prompt	*/
+SBC8540.h (include\configs) line 376 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sbc8560.h (include\configs) line 197 : #define CFG_PROMPT_HUSH_PS2 "> "
+sbc8560.h (include\configs) line 352 : #define CFG_PROMPT	"SBC8560=> " /* Monitor Command Prompt	*/
+sbc8560.h (include\configs) line 358 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sc520_cdp.h (include\configs) line 89 : #define	CFG_PROMPT		"boot > "	/* Monitor Command Prompt	*/
+sc520_cdp.h (include\configs) line 91 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sc520_spunk.h (include\configs) line 86 : #define	CFG_PROMPT		"boot > "	/* Monitor Command Prompt	*/
+sc520_spunk.h (include\configs) line 88 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+scb9328.h (include\configs) line 73 : #define CFG_PROMPT		"scb9328> "	      /* prompt string	     */
+scb9328.h (include\configs) line 75 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* print buffer size   */
+SCM.h (include\configs) line 209 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+SCM.h (include\configs) line 215 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sequoia.h (include\configs) line 319 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+sequoia.h (include\configs) line 325 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+shannon.h (include\configs) line 92 : #define	CFG_PROMPT		"TuxScreen # "	/* Monitor Command Prompt	*/
+shannon.h (include\configs) line 94 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+SL8245.h (include\configs) line 67 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+SL8245.h (include\configs) line 72 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+SM850.h (include\configs) line 86 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+SM850.h (include\configs) line 92 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+smdk2400.h (include\configs) line 131 : #define	CFG_PROMPT		"SMDK2400 # "	/* Monitor Command Prompt	*/
+smdk2400.h (include\configs) line 133 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+smdk2410.h (include\configs) line 111 : #define	CFG_PROMPT		"SMDK2410 # "	/* Monitor Command Prompt	*/
+smdk2410.h (include\configs) line 113 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+smmaco4.h (include\configs) line 321 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+smmaco4.h (include\configs) line 327 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+sorcery.h (include\configs) line 145 : #define CFG_PROMPT_HUSH_PS2 "> "
+sorcery.h (include\configs) line 270 : #define CFG_PROMPT		"=> "	    /* Monitor Command Prompt	*/
+sorcery.h (include\configs) line 276 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+spc1920.h (include\configs) line 105 : #define	CFG_PROMPT		"=>"		/* Monitor Command Prompt	*/
+spc1920.h (include\configs) line 107 : #define CFG_PROMPT_HUSH_PS2	"> "
+spc1920.h (include\configs) line 115 : #define	CFG_PBSIZE (CFG_CBSIZE + sizeof(CFG_PROMPT) + 16) /* Print Buffer Size	*/
+SPD823TS.h (include\configs) line 84 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+SPD823TS.h (include\configs) line 90 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+spieval.h (include\configs) line 408 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+spieval.h (include\configs) line 414 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+stamp.h (include\configs) line 130 : #define CFG_PROMPT			"stamp>"	/* Monitor Command Prompt */
+stamp.h (include\configs) line 136 : #define CFG_PBSIZE			(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+stxgp3.h (include\configs) line 172 : #define CFG_PROMPT_HUSH_PS2 "> "
+stxgp3.h (include\configs) line 336 : #define CFG_PROMPT	"GPPP=> "	/* Monitor Command Prompt	*/
+stxgp3.h (include\configs) line 342 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+stxxtc.h (include\configs) line 120 : #define	CFG_PROMPT	"xtc> "		/* Monitor Command Prompt	*/
+stxxtc.h (include\configs) line 123 : #define CFG_PROMPT_HUSH_PS2	"> "
+stxxtc.h (include\configs) line 130 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+suzaku.h (include\configs) line 65 : #define CFG_PROMPT		"SUZAKU> "	/* Monitor Command Prompt	*/
+suzaku.h (include\configs) line 67 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size	*/
+svm_sc8xx.h (include\configs) line 150 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+svm_sc8xx.h (include\configs) line 153 : #define CFG_PROMPT_HUSH_PS2     "> "
+svm_sc8xx.h (include\configs) line 161 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+SX1.h (include\configs) line 111 : #define CFG_PROMPT		"SX1# " /* Monitor Command Prompt	*/
+SX1.h (include\configs) line 113 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+SXNI855T.h (include\configs) line 228 : #define	CFG_PROMPT		"=>"	/* Monitor Command Prompt	*/
+SXNI855T.h (include\configs) line 234 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TASREG.h (include\configs) line 63 : #define CFG_PROMPT		"=> "
+TASREG.h (include\configs) line 71 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+tb0229.h (include\configs) line 102 : #define CFG_PROMPT		"# "		/* Monitor Command Prompt    */
+tb0229.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)  /* Print Buffer Size */
+TB5200.h (include\configs) line 396 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+TB5200.h (include\configs) line 402 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TOP5200.h (include\configs) line 338 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+TOP5200.h (include\configs) line 344 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+TOP860.h (include\configs) line 136 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+TOP860.h (include\configs) line 141 :  #define CFG_PROMPT_HUSH_PS2	"> "
+TOP860.h (include\configs) line 150 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+Total5200.h (include\configs) line 305 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+Total5200.h (include\configs) line 311 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+TQM5200.h (include\configs) line 567 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+TQM5200.h (include\configs) line 571 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM5200.h (include\configs) line 578 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM823L.h (include\configs) line 124 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM823L.h (include\configs) line 129 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM823L.h (include\configs) line 137 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM823M.h (include\configs) line 113 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM823M.h (include\configs) line 118 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM823M.h (include\configs) line 126 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM8260.h (include\configs) line 239 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+TQM8260.h (include\configs) line 244 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM8260.h (include\configs) line 252 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM834x.h (include\configs) line 354 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+TQM834x.h (include\configs) line 359 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM834x.h (include\configs) line 368 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM850L.h (include\configs) line 105 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM850L.h (include\configs) line 110 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM850L.h (include\configs) line 118 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM850M.h (include\configs) line 103 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM850M.h (include\configs) line 108 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM850M.h (include\configs) line 116 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM855L.h (include\configs) line 108 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM855L.h (include\configs) line 113 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM855L.h (include\configs) line 121 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM855M.h (include\configs) line 142 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM855M.h (include\configs) line 147 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM855M.h (include\configs) line 155 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM85xx.h (include\configs) line 192 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM85xx.h (include\configs) line 386 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+TQM85xx.h (include\configs) line 394 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buf Size	*/
+TQM860L.h (include\configs) line 111 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM860L.h (include\configs) line 116 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM860L.h (include\configs) line 124 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM860M.h (include\configs) line 109 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM860M.h (include\configs) line 114 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM860M.h (include\configs) line 122 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM862L.h (include\configs) line 111 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM862L.h (include\configs) line 116 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM862L.h (include\configs) line 124 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM862M.h (include\configs) line 111 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM862M.h (include\configs) line 116 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM862M.h (include\configs) line 124 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM866M.h (include\configs) line 152 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM866M.h (include\configs) line 157 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM866M.h (include\configs) line 165 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+TQM885D.h (include\configs) line 161 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+TQM885D.h (include\configs) line 166 : #define	CFG_PROMPT_HUSH_PS2	"> "
+TQM885D.h (include\configs) line 174 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+trab.h (include\configs) line 309 : #define	CFG_PROMPT		"TRAB # "	/* Monitor Command Prompt	*/
+trab.h (include\configs) line 311 : #define CFG_PROMPT_HUSH_PS2	"> "
+trab.h (include\configs) line 315 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+uc100.h (include\configs) line 150 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+uc100.h (include\configs) line 156 : #define	CFG_PROMPT_HUSH_PS2	"> "
+uc100.h (include\configs) line 164 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+utx8245.h (include\configs) line 107 : #define CFG_PROMPT	"=> "			/* Monitor Command Prompt	*/
+utx8245.h (include\configs) line 111 : #define CFG_PBSIZE	(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+v37.h (include\configs) line 115 : #define	CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+v37.h (include\configs) line 121 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+V38B.h (include\configs) line 257 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+V38B.h (include\configs) line 263 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+VCMA9.h (include\configs) line 74 : #define CFG_PROMPT_HUSH_PS2 "> "
+VCMA9.h (include\configs) line 158 : #define	CFG_PROMPT		"VCMA9 # "	/* Monitor Command Prompt	*/
+VCMA9.h (include\configs) line 160 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+versatile.h (include\configs) line 125 : #define CFG_PROMPT	"Versatile # "	/* Monitor Command Prompt   */
+versatile.h (include\configs) line 128 : #define CFG_PBSIZE	(CFG_CBSIZE+sizeof(CFG_PROMPT)+16)
+virtlab2.h (include\configs) line 125 : #define	CFG_PROMPT		"=> "	/* Monitor Command Prompt	*/
+virtlab2.h (include\configs) line 131 : #define	CFG_PROMPT_HUSH_PS2	"> "
+virtlab2.h (include\configs) line 139 : #define	CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+VOH405.h (include\configs) line 94 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+VOH405.h (include\configs) line 98 : #define CFG_PROMPT_HUSH_PS2	"> "
+VOH405.h (include\configs) line 106 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+voiceblue.h (include\configs) line 231 : #define CFG_PROMPT_HUSH_PS2	"> "
+voiceblue.h (include\configs) line 235 : #define CFG_PROMPT		"# "		/* Monitor Command Prompt	*/
+voiceblue.h (include\configs) line 237 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+VOM405.h (include\configs) line 92 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+VOM405.h (include\configs) line 96 : #define CFG_PROMPT_HUSH_PS2	"> "
+VOM405.h (include\configs) line 104 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+VoVPN-GW.h (include\configs) line 206 : #define	CFG_PROMPT			"=> "
+VoVPN-GW.h (include\configs) line 216 : #define	CFG_PBSIZE			(CFG_CBSIZE + sizeof(CFG_PROMPT) + 16)
+W7OLMC.h (include\configs) line 90 : #define CFG_PROMPT		"Wave7Optics> " /* Monitor Command Prompt	*/
+W7OLMC.h (include\configs) line 93 : #define CFG_PROMPT_HUSH_PS2     "> "
+W7OLMC.h (include\configs) line 100 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size	*/
+W7OLMG.h (include\configs) line 96 : #define CFG_PROMPT		"Wave7Optics> " /* Monitor Command Prompt	*/
+W7OLMG.h (include\configs) line 99 : #define CFG_PROMPT_HUSH_PS2     "> "
+W7OLMG.h (include\configs) line 106 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size	*/
+walnut.h (include\configs) line 129 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+walnut.h (include\configs) line 135 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+wepep250.h (include\configs) line 67 : #define CFG_PROMPT              "WEP> "               /* prompt string       */
+wepep250.h (include\configs) line 69 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* print buffer size   */
+WUH405.h (include\configs) line 88 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+WUH405.h (include\configs) line 92 : #define CFG_PROMPT_HUSH_PS2	"> "
+WUH405.h (include\configs) line 100 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+xaeniax.h (include\configs) line 107 : #define CFG_PROMPT_HUSH_PS2	"> "
+xaeniax.h (include\configs) line 110 : #define CFG_PROMPT		"u-boot$ "	/* Monitor Command Prompt */
+xaeniax.h (include\configs) line 112 : #define CFG_PROMPT		"u-boot=> "	/* Monitor Command Prompt */
+xaeniax.h (include\configs) line 115 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+xm250.h (include\configs) line 99 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+xm250.h (include\configs) line 101 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+XPEDITE1K.h (include\configs) line 211 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+XPEDITE1K.h (include\configs) line 217 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+xsengine.h (include\configs) line 120 : #define CFG_PROMPT_HUSH_PS2		"> "
+xsengine.h (include\configs) line 122 : #define CFG_PROMPT			"XS-Engine u-boot> "			/* Monitor Command Prompt */
+xsengine.h (include\configs) line 124 : #define CFG_PBSIZE			(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) 	/* Print Buffer Size */
+yellowstone.h (include\configs) line 253 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+yellowstone.h (include\configs) line 259 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+yosemite.h (include\configs) line 258 : #define CFG_PROMPT	        "=> "	/* Monitor Command Prompt	*/
+yosemite.h (include\configs) line 264 : #define CFG_PBSIZE              (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+yucca.h (include\configs) line 232 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt	*/
+yucca.h (include\configs) line 239 : #define CFG_PBSIZE		(CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+Yukon8220.h (include\configs) line 295 : #define CFG_PROMPT		"=> "	    /* Monitor Command Prompt	*/
+Yukon8220.h (include\configs) line 301 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size */
+ZPC1900.h (include\configs) line 139 : #define CFG_PROMPT_HUSH_PS2	"> "
+ZPC1900.h (include\configs) line 141 : #define CFG_PROMPT		"=> "	/* Monitor Command Prompt   */
+ZPC1900.h (include\configs) line 147 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16)	/* Print Buffer Size  */
+ZUMA.h (include\configs) line 60 : #define CFG_PROMPT_HUSH_PS2	"> "
+ZUMA.h (include\configs) line 141 : #define CFG_PROMPT	"=> "		/* Monitor Command Prompt	*/
+ZUMA.h (include\configs) line 147 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */
+zylonite.h (include\configs) line 112 : #define CFG_PROMPT_HUSH_PS2	"> "
+zylonite.h (include\configs) line 116 : #define CFG_PROMPT		"$ "		/* Monitor Command Prompt */
+zylonite.h (include\configs) line 118 : #define CFG_PROMPT		"=> "		/* Monitor Command Prompt */
+zylonite.h (include\configs) line 121 : #define CFG_PBSIZE (CFG_CBSIZE+sizeof(CFG_PROMPT)+16) /* Print Buffer Size */

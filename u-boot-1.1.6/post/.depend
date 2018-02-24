@@ -1,0 +1,4 @@
+cache_8xx.o: cache_8xx.S \
+  /mnt/hgfs/u-boot-zjxiang/u-boot-1.1.6/include/config.h \
+  /mnt/hgfs/u-boot-zjxiang/u-boot-1.1.6/include/configs/S3C2440A.h \
+  /mnt/hgfs/u-boot-zjxiang/u-boot-1.1.6/include/cmd_confdefs.h
